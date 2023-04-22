@@ -55,6 +55,7 @@ _Click `Edit this page` below to add your project_
 - [Idena runner](https://github.com/ltraveler/idena-runner) - script that deploys multiple instances of Idena node on Ubuntu (x64, Arm64), import keys and secure your server in user friendly way
 - [Idena armer](https://github.com/ltraveler/idena-armer) - script that helps to install Idena node client on your mobile device with ARM64 architecture in
 simple and user-friendly way
+- [Idena Sibling](https://github.com/ltraveler/idena-sibling) - Ansible Playbook for Fast Idena Shared and Regular Node Deployment and Management ✦ [The Complete Guide to Idena Sibling](https://medium.com/@idna.project/6ff31873101b)
 - [Idena node public docker](https://hub.docker.com/r/rinzlerfr/idena-node) - A ready to run idena-node public docker image
 - [Idena node public docker](https://hub.docker.com/repository/docker/idenadev/idena) - A ready to run idena-node public docker image
 - [Idena auto-update script](https://github.com/codev911/idena-autoupdate-windows) - Idena auto-update for windows with powershell (script)
